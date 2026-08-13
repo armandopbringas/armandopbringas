@@ -1,51 +1,74 @@
 # Hi, I'm Armando Perez Bringas
 
-**Web Developer | React, Next.js, WordPress, GA4/GTM**
+**Frontend Developer | React, Next.js, TypeScript, AI-Assisted Development**
 
-I'm a web developer with 5 years of experience building, maintaining, and improving websites and digital products, mainly with React and Next.js.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandopbringas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bringas.armandop@gmail.com)
 
-My background is focused on frontend implementation, responsive UI development, website maintenance, and translating business needs into functional web solutions. I'm currently expanding my stack toward WordPress, Figma-assisted UI implementation, and digital tracking with GA4/GTM.
+---
 
-## What I work with
+Frontend Developer with 5 years of experience in the React ecosystem, including the past year as a freelance developer building sites and applications with Next.js and data integrations (PostgreSQL/Neon, Google Sheets API) for real clients. I work with a modern development workflow, integrating AI tools (Claude, Codex) for planning and efficient development. Looking to join a team where I can bring solid technical experience and product judgment.
 
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- WordPress
-- GA4
-- Google Tag Manager
-- Looker Studio
-- SQL
-- Figma
+---
 
-## What I do
+## Tech Stack
 
-- Build and improve websites and digital products
-- Create responsive and user-friendly interfaces
-- Maintain and update web platforms
-- Support tracking implementation with GA4 and GTM
-- Translate requirements into functional web solutions
-- Collaborate with cross-functional teams in agile environments
+**Frontend**
 
-## Experience highlights
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-- 5 years in web development and digital products
-- Frontend experience with React and Next.js
-- Website maintenance and interface improvements
-- Tracking implementation and measurement QA
-- Experience working remotely with distributed teams
+**Data & Backend**
 
-## Current focus
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 
-- Strengthening my WordPress skills
-- Building conversion-focused websites
-- Improving Figma-to-web workflow
-- Growing toward digital measurement and web optimization
+**Tools & Workflow**
 
-## Connect with me
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI--Assisted_Dev-8A2BE2?style=flat)
 
-- LinkedIn: [linkedin.com/in/armandopbringas](https://www.linkedin.com/in/armandopbringas/)
-- Email: [bringas.armandop@gmail.com](mailto:bringas.armandop@gmail.com)
+---
+
+## What I Do
+
+| Area | Details |
+|---|---|
+| **Product delivery** | Build and deliver full websites and web applications end-to-end |
+| **Data integration** | Design and implement data integrations (PostgreSQL, Google Sheets API) |
+| **UI development** | Create responsive, production-ready interfaces with React and Next.js |
+| **AI-assisted workflow** | Use Claude and Codex to plan and accelerate development without compromising code quality |
+| **Product thinking** | Translate business requirements into functional, scalable web solutions |
+| **Collaboration** | Work with cross-functional and remote teams in agile environments |
+
+---
+
+## Experience Highlights
+
+- **5 years** of experience in frontend development and digital products
+- **1 year** as an independent freelance developer, delivering real client projects end-to-end
+- Strong background with **React, Next.js, and TypeScript**
+- Experience integrating data solutions (**PostgreSQL, Google Sheets API**)
+- Practical experience with **AI-assisted development workflows**
+- Remote work experience with distributed, cross-functional teams
+
+---
+
+## Current Focus
+
+- Strengthening core frontend fundamentals (JavaScript internals, browser performance, testing)
+- Deepening backend fundamentals (PostgreSQL, REST API design)
+- Exploring AI integration in web products (LLM APIs, RAG)
+- Actively looking for a frontend/full-stack role where I can contribute technical depth and product thinking
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-armandopbringas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandopbringas/)
+[![Gmail](https://img.shields.io/badge/-bringas.armandop@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bringas.armandop@gmail.com)
